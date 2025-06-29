@@ -123,18 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="edge.h" />
-    <ClInclude Include="edgelist.h" />
-    <ClInclude Include="edgeNode.h" />
-    <ClInclude Include="graph.h" />
-    <ClInclude Include="vertex.h" />
-    <ClInclude Include="vertexlist.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="edgelist.cpp" />
     <ClCompile Include="graph.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="vertexlist.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
