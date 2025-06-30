@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|solutionrelative:ADJMATRIX\\graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\edge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|solutionrelative:ADJMATRIX\\edge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\vertex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|solutionrelative:ADJMATRIX\\vertex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\edgelist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|solutionrelative:ADJMATRIX\\edgelist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|solutionrelative:ADJMATRIX\\graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\vertexlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|solutionrelative:ADJMATRIX\\vertexlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\vertexlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|solutionrelative:ADJMATRIX\\vertexlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\edgelist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0564B6FE-E2FD-4962-A57E-1EC90C68F3F2}|ADJMATRIX\\ADJMATRIX.vcxproj|solutionrelative:ADJMATRIX\\edgelist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edgelist.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\edgelist.cpp",
+              "RelativeDocumentMoniker": "ADJMATRIX\\edgelist.cpp",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\edgelist.cpp",
+              "RelativeToolTip": "ADJMATRIX\\edgelist.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-30T12:32:00.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "edgelist.h",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\edgelist.h",
+              "RelativeDocumentMoniker": "ADJMATRIX\\edgelist.h",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\edgelist.h",
+              "RelativeToolTip": "ADJMATRIX\\edgelist.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-30T12:31:03.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "graph.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\graph.cpp",
+              "RelativeDocumentMoniker": "ADJMATRIX\\graph.cpp",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\graph.cpp",
+              "RelativeToolTip": "ADJMATRIX\\graph.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-30T12:00:56.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vertexlist.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\vertexlist.cpp",
+              "RelativeDocumentMoniker": "ADJMATRIX\\vertexlist.cpp",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\vertexlist.cpp",
+              "RelativeToolTip": "ADJMATRIX\\vertexlist.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-30T12:00:48.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "graph.h",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\graph.h",
+              "RelativeDocumentMoniker": "ADJMATRIX\\graph.h",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\graph.h",
+              "RelativeToolTip": "ADJMATRIX\\graph.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-30T10:24:46.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vertexlist.h",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\vertexlist.h",
+              "RelativeDocumentMoniker": "ADJMATRIX\\vertexlist.h",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\vertexlist.h",
+              "RelativeToolTip": "ADJMATRIX\\vertexlist.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-30T10:24:34.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "edge.h",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\edge.h",
+              "RelativeDocumentMoniker": "ADJMATRIX\\edge.h",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\edge.h",
+              "RelativeToolTip": "ADJMATRIX\\edge.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-30T10:24:28.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vertex.h",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\vertex.h",
+              "RelativeDocumentMoniker": "ADJMATRIX\\vertex.h",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\ADJMATRIX\\ADJMATRIX\\vertex.h",
+              "RelativeToolTip": "ADJMATRIX\\vertex.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-30T10:24:20.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
