@@ -58,6 +58,7 @@ void put()
 
 void* Producer(void* args)
 {
+	while(1){
 	pthread_mutex_lock(&m);
 	while(counter>0)
 		pthread_cond_wait(&empty,&m);
@@ -65,16 +66,17 @@ void* Producer(void* args)
 	pthread_cond_signal(&fill);
 	pthread_mutex_unlock(&m);
 	printf("Done filling Buffer.\n");
-	return NULL;
+	;}
 }
 void* Consumer(void* args)
 {
+	while(1){
 	pthread_mutex_lock(&m);
-	while(counter<=MAX_SIZE-1)
+	while(counter==0)
 		pthread_cond_wait(&fill,&m);
 	get();
 	pthread_cond_signal(&empty);
 	pthread_mutex_unlock(&m);
 	printf("Done empty Buffer.\n");
-	return NULL;
+	;}
 }
