@@ -42,6 +42,7 @@ int get()
 		sleep(2);
 	}
 	printf("Current counter: %d\n",counter);
+	counter++;
 	return 0;
 }
 void put()
