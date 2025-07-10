@@ -32,9 +32,9 @@ private:
 	AVLNode<T>* right_rotation(AVLNode<T>*);
 	int height(AVLNode<T>*);
 	int balanceFactor(AVLNode<T>*);
-	void insert(T);
-	void remove(T);
-	AVLNode* find(T);
+	AVLNode<T>* insert(AVLNode<T>*,T);
+	AVLNode<T>* remove(AVLNode<T>*,T);
+	AVLNode* minValue(AVLNode<T>*);
 };
 
 template <typename T>
@@ -72,4 +72,121 @@ AVLNode<T>* AVLTree<T>::right_rotation(AVLNode<T>* Node)
 	Node->height = max(Node->left->height, Node->right->height) + 1;
 	leftChild->height = max(Node->height, leftChild->left->height) + 1;
 	return leftChild;
+}
+template <typename T>
+AVLNode<T>* AVLTree<T>::insert(AVLNode<T>* Node, T key)
+{
+	if (node == nullptr)
+		return new AVLNode<T>(key);
+	if (key < Node->key)
+		Node->left = insert(Node->left, key);
+	else if (key > node->key)
+		Node->right = insert(Node->right, key);
+	else
+		return Node;
+	Node->height = 1 + max(height(Node->left), height(Node->right));
+	int balance = balanceFactor(Node);
+	//RR CASE
+	// imbalance case :   3
+	//                   /
+	//                  2
+	//                 /
+	//                1
+	// at root Node, left imbalance occured. inserted key < parent key = left Node insertion.
+	if (balance > 1 && key < Node->left->key)
+	{
+		return right_rotation(Node);
+	}
+	//LL CASE
+	// imbalance case : 3
+	//                   |
+	//                    2
+	//                     |
+	//                      1
+	//at root Node, right imbalance occured. inserted key > parent key = right Node insertion.
+	if (balance < -1 && key > Node->right->key)
+	{
+		return left_rotation(Node);
+	}
+	//RL CASE
+	// imbalance case: 4
+	//                /
+	//               2
+	//                |
+	//                 3
+	//at root Node, left imbalance occured. inserted key > parent key -> perfrom Left Rotation on the root->left, and Right rotation on the root Node.
+	if (balance > 1 && key > Node->left->key)
+	{
+		Node->left = left_rotation(Node->left);
+		return right_rotation(Node);
+	}
+	//LR CASE
+	// imbalance case: 10
+	//                   |
+	//                    13
+	//                    /
+	//                   12
+	//ar root Node, right imbalance occured. inserted key < parent key -> perform Right Rotation on root->right Node, and Left Rotation on root Node
+	if (balance < -1 && key < Node->right->key)
+	{
+		Node->right = right_rotation(Node->right);
+		return left_rotation(Node);
+	}
+	return Node;
+}
+template <typename T>
+AVLNode<T>* AVLTree<T>::remove(AVLNode<T>* Node, T key)
+{
+	if (Node == nullptr)
+		return nullptr;
+	if (key < Node->key)
+		remove(Node->left, key);
+	else if (key > Node->key)
+		remove(Node->right, key);
+	else
+	{
+		if ((Node->left == nullptr) || (Node->right == nullptr))
+		{
+			AVLNode<T>* temp = Node->left ? Node->left : Node->right;
+
+			if (temp == nullptr)
+			{
+				temp = Node;
+				Node = nullptr;
+			}
+			else
+				*Node = *temp;
+			delete temp;
+		}
+		else
+		{
+			//find successor.
+			AVLNode<T>* temp = minValue(root->right);
+			root->key = temp->key;
+			root->right = remove(root->right, temp->key);
+		}
+	}
+	if (Node == nullptr)
+		return Node;
+	Node->height = 1 + max(height(Node->left), height(Node->right));
+	int balance = balanceFactor(Node);
+	if (balance > 1 && balanceFactor(root->left) >= 0)
+	{
+		return right_rotation(Node);
+	}
+	if (balance < -1 && balanceFactor(Node->right) <= 0)
+	{
+		return left_rotation(Node);
+	}
+	if (balance < -1 && balanceFactor(Node->right) > 0)
+	{
+		Node->right = right_rotation(Node->right);
+		return left_rotation(Node);
+	}
+	if (balance > 1 && balanceFactor(Node->left) < 0)
+	{
+		Node->left = left_rotation(Node->left);
+		return right_rotation(Node);
+	}
+	return Node;
 }
