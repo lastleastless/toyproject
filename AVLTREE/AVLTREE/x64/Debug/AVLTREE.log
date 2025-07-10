@@ -1,0 +1,15 @@
+﻿  AVL.cpp
+C:\Users\MSI\Desktop\recap\toyproject\AVLTREE\AVLTREE\AVL.cpp(37,2): error C2955: 'AVLNode': 클래스 템플릿을(를) 사용하려면 템플릿 인수 목록이 필요합니다.
+      C:\Users\MSI\Desktop\recap\toyproject\AVLTREE\AVLTREE\Node.h(3,7):
+      'AVLNode' 선언을 참조하십시오.
+      C:\Users\MSI\Desktop\recap\toyproject\AVLTREE\AVLTREE\AVL.cpp(37,2):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\MSI\Desktop\recap\toyproject\AVLTREE\AVLTREE\AVL.cpp(25,29):
+          클래스 템플릿 'AVLTree'을(를) 컴파일하는 동안
+  
+C:\Users\MSI\Desktop\recap\toyproject\AVLTREE\AVLTREE\AVL.cpp(50,6): error C2065: 'node': 선언되지 않은 식별자입니다.
+C:\Users\MSI\Desktop\recap\toyproject\AVLTREE\AVLTREE\AVL.cpp(50,6): error C3861: 'node': 식별자를 찾을 수 없습니다.
+C:\Users\MSI\Desktop\recap\toyproject\AVLTREE\AVLTREE\AVL.cpp(79,6): error C2065: 'node': 선언되지 않은 식별자입니다.
+C:\Users\MSI\Desktop\recap\toyproject\AVLTREE\AVLTREE\AVL.cpp(79,6): error C3861: 'node': 식별자를 찾을 수 없습니다.
+C:\Users\MSI\Desktop\recap\toyproject\AVLTREE\AVLTREE\AVL.cpp(83,17): error C3861: 'node': 식별자를 찾을 수 없습니다.
+C:\Users\MSI\Desktop\recap\toyproject\AVLTREE\AVLTREE\AVL.cpp(83,17): error C2065: 'node': 선언되지 않은 식별자입니다.

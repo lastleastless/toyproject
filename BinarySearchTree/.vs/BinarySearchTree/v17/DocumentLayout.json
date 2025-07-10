@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\BinarySearchTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D3F1C4-C1BD-476A-A989-7F7232F70F43}|BinarySearchTree\\BinarySearchTree.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\BinarySearchTree\\BinarySearchTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0D3F1C4-C1BD-476A-A989-7F7232F70F43}|BinarySearchTree\\BinarySearchTree.vcxproj|solutionrelative:BinarySearchTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D3F1C4-C1BD-476A-A989-7F7232F70F43}|BinarySearchTree\\BinarySearchTree.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\BinarySearchTree\\BinarySearchTree\\BST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0D3F1C4-C1BD-476A-A989-7F7232F70F43}|BinarySearchTree\\BinarySearchTree.vcxproj|solutionrelative:BinarySearchTree\\BST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D3F1C4-C1BD-476A-A989-7F7232F70F43}|BinarySearchTree\\BinarySearchTree.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\BinarySearchTree\\BinarySearchTree\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0D3F1C4-C1BD-476A-A989-7F7232F70F43}|BinarySearchTree\\BinarySearchTree.vcxproj|solutionrelative:BinarySearchTree\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D3F1C4-C1BD-476A-A989-7F7232F70F43}|BinarySearchTree\\BinarySearchTree.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\BinarySearchTree\\BinarySearchTree\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0D3F1C4-C1BD-476A-A989-7F7232F70F43}|BinarySearchTree\\BinarySearchTree.vcxproj|solutionrelative:BinarySearchTree\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\BinarySearchTree\\BinarySearchTree\\main.cpp",
+              "RelativeDocumentMoniker": "BinarySearchTree\\main.cpp",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\BinarySearchTree\\BinarySearchTree\\main.cpp",
+              "RelativeToolTip": "BinarySearchTree\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-07T10:50:48.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\BinarySearchTree\\BinarySearchTree\\source.cpp",
+              "RelativeDocumentMoniker": "BinarySearchTree\\source.cpp",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\BinarySearchTree\\BinarySearchTree\\source.cpp",
+              "RelativeToolTip": "BinarySearchTree\\source.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-07T10:07:04.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BST.h",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\BinarySearchTree\\BinarySearchTree\\BST.h",
+              "RelativeDocumentMoniker": "BinarySearchTree\\BST.h",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\BinarySearchTree\\BinarySearchTree\\BST.h",
+              "RelativeToolTip": "BinarySearchTree\\BST.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-07T10:04:41.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.h",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\BinarySearchTree\\BinarySearchTree\\Node.h",
+              "RelativeDocumentMoniker": "BinarySearchTree\\Node.h",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\BinarySearchTree\\BinarySearchTree\\Node.h",
+              "RelativeToolTip": "BinarySearchTree\\Node.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-07T10:02:06.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

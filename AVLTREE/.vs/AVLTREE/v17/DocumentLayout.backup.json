@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\AVLTREE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{277A2413-57CB-4533-92F4-3A1FBB985D13}|AVLTREE\\AVLTREE.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\AVLTREE\\AVLTREE\\AVL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{277A2413-57CB-4533-92F4-3A1FBB985D13}|AVLTREE\\AVLTREE.vcxproj|solutionrelative:AVLTREE\\AVL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277A2413-57CB-4533-92F4-3A1FBB985D13}|AVLTREE\\AVLTREE.vcxproj|C:\\Users\\MSI\\Desktop\\recap\\toyproject\\AVLTREE\\AVLTREE\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{277A2413-57CB-4533-92F4-3A1FBB985D13}|AVLTREE\\AVLTREE.vcxproj|solutionrelative:AVLTREE\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AVL.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\AVLTREE\\AVLTREE\\AVL.cpp",
+              "RelativeDocumentMoniker": "AVLTREE\\AVL.cpp",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\AVLTREE\\AVLTREE\\AVL.cpp*",
+              "RelativeToolTip": "AVLTREE\\AVL.cpp*",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAqwLkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-08T08:34:18.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.h",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\AVLTREE\\AVLTREE\\Node.h",
+              "RelativeDocumentMoniker": "AVLTREE\\Node.h",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\recap\\toyproject\\AVLTREE\\AVLTREE\\Node.h",
+              "RelativeToolTip": "AVLTREE\\Node.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-08T08:45:40.121Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
